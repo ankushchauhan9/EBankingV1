@@ -1,6 +1,7 @@
 package com.banking.testCases;
 
 import com.banking.pageObjects.LoginPage;
+import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -29,6 +30,11 @@ public class TC_LoginTest_001 extends BaseClass {
             logger.info("login test failed");
         }
 
+    }
+
+    @Test (dependsOnMethods = {"loginTest"})
+    public void clickAddNewCustomer(){
+            driver.findElement(By.xpath("//li//a[text()='New Customer']")).click();
     }
 
 

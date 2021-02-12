@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b04d6f8-58b2-42cd-964d-f9ba3d59863c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/banking/testCases/TC_AddNewCustomerTestDDT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/banking/testData/AddNewCustomer.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/loginTest.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/loginTest.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/application.html" beforeDir="false" afterPath="$PROJECT_DIR$/log/application.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/testlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/testlog.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/testlog1.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/testlog1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/banking/testCases/TC_LoginTest_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/banking/testCases/TC_LoginTest_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/banking/utilities/XLUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/banking/utilities/XLUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/banking/testCases/TC_LoginTest_001.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/banking/testCases/TC_LoginTest_001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/banking/utilities/XLUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/banking/utilities/XLUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +111,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_LoginTest_001" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TC_AddNewCustomerTestDDT" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BankingAutomationFramework" />
       <extension name="coverage">
         <pattern>
@@ -110,7 +121,7 @@
       </extension>
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="com.banking.testCases" />
-      <option name="MAIN_CLASS_NAME" value="com.banking.testCases.TC_LoginTest_001" />
+      <option name="MAIN_CLASS_NAME" value="com.banking.testCases.TC_AddNewCustomerTestDDT" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -126,7 +137,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_LoginTest_001.loginTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TC_AddNewCustomerTestDDT.getAllExcelData" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BankingAutomationFramework" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +147,8 @@
       </extension>
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="com.banking.testCases" />
-      <option name="MAIN_CLASS_NAME" value="com.banking.testCases.TC_LoginTest_001" />
-      <option name="METHOD_NAME" value="loginTest" />
+      <option name="MAIN_CLASS_NAME" value="com.banking.testCases.TC_AddNewCustomerTestDDT" />
+      <option name="METHOD_NAME" value="getAllExcelData" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
@@ -153,7 +164,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_LoginTest_001.loginTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TC_LoginTest_001" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BankingAutomationFramework" />
       <extension name="coverage">
         <pattern>
@@ -164,9 +175,8 @@
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="com.banking.testCases" />
       <option name="MAIN_CLASS_NAME" value="com.banking.testCases.TC_LoginTest_001" />
-      <option name="METHOD_NAME" value="loginTest" />
       <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
@@ -200,18 +210,18 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.TC_LoginTest_001" />
-      <item itemvalue="TestNG.TC_LoginTest_001.loginTest (1)" />
-      <item itemvalue="TestNG.TC_LoginTest_001.loginTest (2)" />
       <item itemvalue="TestNG.C:/Users/ankush.chauhan/IdeaProjects/BankingAutomationFramework/TestNG.xml" />
       <item itemvalue="TestNG.C:/Users/ankush.chauhan/IdeaProjects/BankingAutomationFramework/testng.xml" />
+      <item itemvalue="TestNG.TC_AddNewCustomerTestDDT.getAllExcelData" />
+      <item itemvalue="TestNG.TC_AddNewCustomerTestDDT" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/ankush.chauhan/IdeaProjects/BankingAutomationFramework/testng.xml" />
+        <item itemvalue="TestNG.TC_AddNewCustomerTestDDT" />
+        <item itemvalue="TestNG.TC_AddNewCustomerTestDDT.getAllExcelData" />
         <item itemvalue="TestNG.C:/Users/ankush.chauhan/IdeaProjects/BankingAutomationFramework/TestNG.xml" />
         <item itemvalue="TestNG.TC_LoginTest_001" />
-        <item itemvalue="TestNG.TC_LoginTest_001.loginTest (1)" />
-        <item itemvalue="TestNG.TC_LoginTest_001.loginTest (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -253,22 +263,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="254" y="294" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1613027895154" />
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1613049617105">
+    <state width="391" height="466" key="DebuggerActiveHint" timestamp="1613155539818">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613049617105" />
-    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1613049617105">
+    <state width="391" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1613155539818" />
+    <state width="1322" height="223" key="GridCell.Tab.0.bottom" timestamp="1613156321724">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613049617105" />
-    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1613049617105">
+    <state width="1322" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613156321724" />
+    <state width="1322" height="223" key="GridCell.Tab.0.center" timestamp="1613156321723">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613049617105" />
-    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1613049617105">
+    <state width="1322" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613156321723" />
+    <state width="1322" height="223" key="GridCell.Tab.0.left" timestamp="1613156321723">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613049617105" />
+    <state width="1322" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613156321723" />
+    <state width="1322" height="223" key="GridCell.Tab.0.right" timestamp="1613156321724">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613156321724" />
+    <state width="1322" height="223" key="GridCell.Tab.1.bottom" timestamp="1613156321726">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613156321726" />
+    <state width="1322" height="223" key="GridCell.Tab.1.center" timestamp="1613156321726">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1613156321726" />
+    <state width="1322" height="223" key="GridCell.Tab.1.left" timestamp="1613156321725">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1613156321725" />
+    <state width="1322" height="223" key="GridCell.Tab.1.right" timestamp="1613156321726">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1613156321726" />
     <state x="213" y="23" key="Maven.ArtifactSearchDialog" timestamp="1612966623263">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -281,5 +311,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1612953252825" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/banking/testCases/TC_AddNewCustomerTestDDT.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/banking/testCases/TC_AddNewCustomerTestDDT.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
